@@ -27,17 +27,6 @@ To run the app properly, create a `.env` file in the root directory and paste yo
 Otherwise, the app will fail to fetch content and produce API-related errors.
 
 ### 🔧 Kurulum Adımları | Installation
-
-```bash
-git clone https://github.com/kullaniciadi/shartflix.git
-cd shartflix
-flutter pub get
-flutter run
-
----
-
-## 📸 Ekran Görüntüleri / Screenshots
-
 ### Ana Sayfa / Home Page
 ![Home Screen](screenshots/home.png)
 
@@ -49,3 +38,15 @@ flutter run
 
 ### Giriş Sayfası / Login Page
 ![Login Screen](screenshots/login.png)
+
+```bash
+git clone https://github.com/kullaniciadi/shartflix.git
+cd shartflix
+flutter pub get
+flutter run
+
+---
+
+## 📸 Ekran Görüntüleri / Screenshots
+
+
