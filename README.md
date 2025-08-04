@@ -45,18 +45,25 @@ Aksi takdirde uygulama API bağlantı hatası verir ve içerik yüklenemez.
 To run the app properly, create a `.env` file in the root directory and paste your [TMDB](https://www.themoviedb.org/) API key in the following format:
 Otherwise, the app will fail to fetch content and produce API-related errors.
 
-
-
+### ⚠️ Örnek Kullanım | Example 
+****
+TMDB_API_KEY=YOUR_TOKEN_HERE
+TMDB_BASE_URL=https://api.themoviedb.org/3
+TMDB_IMAGE_BASE_URL=https://image.tmdb.org/t/p/w500
+****
 
 ## 📸 Ekran Görüntüleri / Screenshots
 ### Ana Sayfa / Home Page
 ![Home Screen](screenshots/home.png)
 
+
 ### Profil Sayfası / Profile Page
 ![Profile Page](screenshots/profile.png)
 
+
 ### Profil Sayfası - 2 / Profile Page - 2
 ![Profile Page2](screenshots/profile2.png)
+
 
 ### Giriş Sayfası / Login Page
 ![Login Screen](screenshots/login.png)
