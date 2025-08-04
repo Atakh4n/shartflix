@@ -35,3 +35,17 @@ flutter pub get
 flutter run
 
 ---
+
+## 📸 Ekran Görüntüleri / Screenshots
+
+### Ana Sayfa / Home Page
+![Home Screen](screenshots/home.png)
+
+### Profil Sayfası / Profile Page
+![Detail Page](screenshots/profile.png)
+
+### Profil Sayfası - 2 / Profile Page - 2
+![Detail Page](screenshots/profile2.png)
+
+### Giriş Sayfası / Login Page
+![Login Screen](screenshots/login.png)
