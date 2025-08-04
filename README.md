@@ -46,11 +46,13 @@ To run the app properly, create a `.env` file in the root directory and paste yo
 Otherwise, the app will fail to fetch content and produce API-related errors.
 
 ### ⚠️ Örnek Kullanım | Example 
-****
-TMDB_API_KEY=YOUR_TOKEN_HERE
+
+TMDB_API_KEY=YOUR_TOKEN_HERE 
+
 TMDB_BASE_URL=https://api.themoviedb.org/3
+
 TMDB_IMAGE_BASE_URL=https://image.tmdb.org/t/p/w500
-****
+
 
 ## 📸 Ekran Görüntüleri / Screenshots
 ### Ana Sayfa / Home Page
