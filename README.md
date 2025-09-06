@@ -1,6 +1,9 @@
 # shartflix
 🇺🇸 English:
 Shartflix is a Netflix-inspired mobile replica app developed by Atakh4n for NodeLabs Software using Flutter. It allows users to explore movies and series with a beautiful and modern UI. The app is open and free for everyone to use.
+
+--- --- --- --- --- --- --- --- ---
+
 🇹🇷 Türkçe:
 Shartflix, Atakh4n tarafından NodeLabs Software için geliştirilen, Flutter tabanlı bir Netflix replikası mobil uygulamadır. Kullanıcıların film ve dizi içeriklerini modern ve şık bir arayüz ile keşfetmesini sağlar. Uygulama herkese açık ve ücretsizdir.
 
