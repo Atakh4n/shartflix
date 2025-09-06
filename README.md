@@ -10,7 +10,7 @@ Shartflix, Atakh4n tarafından NodeLabs Software için geliştirilen, Flutter ta
 
 🙏 Credit 🙏
 If you use this project in your own applications, demos, or repositories, please consider giving proper credit.
-Mentioning Atakh4n and NodeLabs Software, and linking back to this repository or including a note in your README, is highly appreciated.
+Mentioning Atakh4n, and linking back to this repository or including a note in your README, is highly appreciated.
 
 Example:
 "Built using Shartflix — developed by Atakh4n."
@@ -38,10 +38,10 @@ TMDB_IMAGE_BASE_URL=https://image.tmdb.org/t/p/w500
 
 🙏 Emeğe Saygı 🙏
 Bu projeyi kendi uygulamanızda, sunumlarınızda veya açık kaynak çalışmalarınızda kullanıyorsanız, lütfen uygun şekilde kredi verin.
-Atakh4n ve NodeLabs Software isminin geçmesi ve bu GitHub deposuna bağlantı verilmesi ya da README dosyanızda kısa bir not düşülmesi memnuniyetle karşılanır.
+"Atakh4n" isminin geçmesi ve bu GitHub deposuna bağlantı verilmesi ya da README dosyanızda kısa bir not düşülmesi memnuniyetle karşılanır.
 
 Örnek:
-"Bu proje Shartflix temel alınarak geliştirilmiştir — Atakh4n tarafından yapılmıştır."
+"Bu proje Netflix temel alınarak geliştirilmiştir — Atakh4n tarafından yapılmıştır."
 
 
 ### 🚀 Kurulum 
